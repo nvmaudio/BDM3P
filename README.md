@@ -12,6 +12,13 @@ Link Hướng dẫn và tải phần mềm
 👉 [Hướng dẫn & Download MV_Assisant_Tools](https://github.com/nvmaudio/MV_Assisant_Tools)
 
 
+## 📥 Tải xuống FW
+
+Phiên bản mới nhất của **FW DBM3P** được phát hành tại GitHub Releases:
+
+🔗 https://github.com/nvmaudio/BDM3P/releases/tag/DBM3P
+
+
 ### 🔇 MUTE Control
 - **Pin:** `GPIOA10`
 - `Low`  → Có nhạc  
