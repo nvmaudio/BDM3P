@@ -3,8 +3,8 @@
 
 ## ACPWorkbench
 - Phần Mềm DSP gốc của MVsilicon 
-Link Hướng dẫn và tải phần mềm: ////
-👉 [Hướng dẫn & Download ACPWorkbench]([https://github.com/xxxxx](https://github.com/nvmaudio/ACPWorkbench))
+Link Hướng dẫn và tải phần mềm
+👉 [Hướng dẫn & Download ACPWorkbench](https://github.com/nvmaudio/ACPWorkbench)
 
 
 ## 🛠 Hardware Update
