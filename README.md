@@ -22,8 +22,6 @@ Link Hướng dẫn và tải phần mềm
 👉 [Hướng dẫn & Download MV_Assisant_Tools](https://github.com/nvmaudio/MV_Assisant_Tools)
 
 
-
-https://github.com/nvmaudio/NVM-TOOL-MOBILE
 ---
 
 
