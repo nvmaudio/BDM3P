@@ -6,6 +6,11 @@
 Link Hướng dẫn và tải phần mềm
 👉 [Hướng dẫn & Download ACPWorkbench](https://github.com/nvmaudio/ACPWorkbench)
 
+## MV_Assisant_Tools
+- Phần Mềm Update FW của MVsilicon 
+Link Hướng dẫn và tải phần mềm
+👉 [Hướng dẫn & Download ACPWorkbench](https://github.com/nvmaudio/MV_Assisant_Tools)
+
 
 ## 🛠 Hardware Update
 
