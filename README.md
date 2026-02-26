@@ -9,7 +9,7 @@ Link Hướng dẫn và tải phần mềm
 ## 🛠 NVM-TOOL-PC
 - Phần Mềm DSP và Cài đặt thông số của NVM phát triển
 Link Hướng dẫn và tải phần mềm
-👉 [Hướng dẫn & Download MV_Assisant_Tools](https://github.com/nvmaudio/MV_Assisant_Tools)
+👉 [Hướng dẫn & Download NVM-TOOL-PC](https://github.com/nvmaudio/NVM-TOOL-PC)
 
 ## 🛠 MV_Assisant_Tools
 - Phần Mềm Update FW của MVsilicon 
