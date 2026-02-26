@@ -1,5 +1,4 @@
 # 📦 DBM3P – FW và các Tool liên quan
----
 
 ## 🛠 ACPWorkbench
 - Phần Mềm DSP gốc của MVsilicon 
@@ -15,8 +14,6 @@ Link Hướng dẫn và tải phần mềm
 - Phần Mềm Update FW của MVsilicon 
 Link Hướng dẫn và tải phần mềm
 👉 [Hướng dẫn & Download MV_Assisant_Tools](https://github.com/nvmaudio/MV_Assisant_Tools)
-
-
 
 ---
 
