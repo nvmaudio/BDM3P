@@ -27,6 +27,7 @@ Phiên bản mới nhất của **FW DBM3P** được phát hành tại GitHub R
 
 🔗 https://github.com/nvmaudio/BDM3P/releases/tag/DBM3P
 
+---
 
 ### 🔇 MUTE Control
 - **Pin:** `GPIOA10`
