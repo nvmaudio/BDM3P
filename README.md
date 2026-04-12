@@ -1,26 +1,13 @@
 # 📦 DBM3P – FW và các Tool liên quan
 
-## 🛠 ACPWorkbench
-- Phần Mềm DSP gốc của MVsilicon 
-Link Hướng dẫn và tải phần mềm
-👉 [Hướng dẫn & Download ACPWorkbench](https://github.com/nvmaudio/ACPWorkbench)
+### 🛠 Công cụ liên quan
 
-## 🛠 NVM-TOOL-PC
-- Phần Mềm DSP và Cài đặt thông số của NVM phát triển
-Link Hướng dẫn và tải phần mềm
-👉 [Hướng dẫn & Download NVM-TOOL-PC](https://github.com/nvmaudio/NVM-TOOL-PC)
-
-
-## 🛠 NVM-TOOL-MOBILE
-- Phần Mềm DSP và Cài đặt thông số của NVM phát triển  chạy trên Mobile
-Link Hướng dẫn và tải phần mềm
-👉 [Hướng dẫn & Download NVM-TOOL-MOBILE](https://github.com/nvmaudio/NVM-TOOL-MOBILE)
-
-## 🛠 MV_Assisant_Tools
-- Phần Mềm Update FW của MVsilicon 
-Link Hướng dẫn và tải phần mềm
-👉 [Hướng dẫn & Download MV_Assisant_Tools](https://github.com/nvmaudio/MV_Assisant_Tools)
-
+| Tool | Mô tả | Link |
+|------|------|------|
+| **ACPWorkbench** | DSP gốc của MVsilicon | 👉 [Tải xuống](https://github.com/nvmaudio/ACPWorkbench) |
+| **MV_Assisant_Tools** | Tool update FW (MVsilicon) | 👉 [Tải xuống](https://github.com/nvmaudio/MV_Assisant_Tools) |
+| **NVM-TOOL-PC** | DSP & cấu hình thông số (PC) | 👉 [Tải xuống](https://github.com/nvmaudio/NVM-TOOL-PC) |
+| **NVM-TOOL-MOBILE** | DSP & cấu hình thông số (Mobile) | 👉 [Tải xuống](https://github.com/nvmaudio/NVM-TOOL-MOBILE) |
 
 ---
 
@@ -71,33 +58,6 @@ Phần mềm tự phát triển hỗ trợ:
 
 - Thay đổi nhạc thông báo
 - Thay đổi âm thanh khởi động
-
----
-
-# 🔄 Version 4.0.1
-- Cải thiện chỉnh **Bass / Mid / Treble** bằng App  
-  > ⚠ Lưu ý: Cần chọn `Pre_mode = App` trong mục **Quick Setting**
-
----
-
-# 🔄 Version 4.0.2
-- Cải thiện độ mượt khi chỉnh **Volume trên App**
-
----
-
-# 🔄 Version 4.0.3
-- Tối ưu đồng bộ giữa **App và Chip**
-
----
-
-# 🔄 Version 4.0.4
-- Cập nhật **Preamp** có thể điều chỉnh được cả **DACX**
-
----
-
-# 🔄 Version 4.0.5
-- Cập nhật giao diện **Mobile & PC**
-- Fix lỗi nhập liệu không còn bị loạn
 
 ---
 
